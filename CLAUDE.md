@@ -74,7 +74,7 @@
 
 #### I. 인공지능 기초
 - [x] Lecture 01. 인공지능이란 무엇인가
-- [ ] Lecture 02. 학습의 개념
+- [x] Lecture 02. 학습의 개념
 - [ ] Lecture 03. 학습 패러다임
 - [ ] Lecture 04. 일반화 문제
 - [ ] Lecture 05. 편향과 분산

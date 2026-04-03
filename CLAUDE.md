@@ -21,42 +21,29 @@
 
 ---
 
-## 완료된 작업 (2026-03-28)
+## 완료된 작업
 
-### 프로젝트 초기 세팅
+### 2026-03-28 — 프로젝트 초기 세팅
 - [x] `package.json` — `dev`, `build`, `preview` 스크립트 포함
 - [x] `.gitignore` — `node_modules/`, `dist/`, `.vitepress/cache/` 제외
 - [x] `README.md` — 로컬 실행 방법 작성
 - [x] `CLAUDE.md` — 작업 현황 문서 (이 파일)
-
-### VitePress 설정
 - [x] `docs/.vitepress/config.mts` — 사이드바, KaTeX, Mermaid, 로컬 서치, base URL 설정
 - [x] `docs/index.md` — 홈페이지 (hero 섹션 + 전체 목차 링크)
+- [x] 28개 Lecture .md 빈 템플릿 파일 생성 (ch01~ch12)
+- [x] `docs/public/images/ch01/` ~ `ch12/` 이미지 디렉토리 생성
+- [x] `.github/workflows/deploy.yml` — GitHub Pages 자동 배포 워크플로우
+- [x] `npm run build` / `npm run dev` 동작 확인
 
-### 콘텐츠 구조 (템플릿)
-28개 Lecture .md 파일 생성 (모두 빈 템플릿 상태):
-- [x] ch01: Lecture 01~03
-- [x] ch02: Lecture 04~05
-- [x] ch03: Lecture 06~07
-- [x] ch04: Lecture 08~10
-- [x] ch05: Lecture 11~12
-- [x] ch06: Lecture 13~15
-- [x] ch07: Lecture 16
-- [x] ch08: Lecture 17~18
-- [x] ch09: Lecture 19
-- [x] ch10: Lecture 20
-- [x] ch11: Lecture 21~23
-- [x] ch12: Lecture 24~28
+### 2026-03-31 — 강의 콘텐츠 작성 시작
+- [x] Lecture 01. 인공지능이란 무엇인가
+- [x] Lecture 02. 학습의 개념
 
-### 이미지 디렉토리
-- [x] `docs/public/images/ch01/` ~ `ch12/` 생성 (`.gitkeep` 포함)
-
-### 배포 파이프라인
-- [x] `.github/workflows/deploy.yml` — `main` 브랜치 push 시 GitHub Pages 자동 배포
-
-### 빌드 검증
-- [x] `npm run build` 성공 확인
-- [x] `npm run dev` 로컬 실행 확인 (http://localhost:5173/all-of-ai/)
+### 2026-04-03 — 강의 콘텐츠 작성 계속
+- [x] Lecture 03. 학습 패러다임
+- [x] Lecture 04. 일반화 문제
+- [x] Lecture 05. 편향과 분산
+- [x] 홈페이지 hero 텍스트 수정
 
 ---
 

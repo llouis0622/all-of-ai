@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: All of AI
-  text: 인공지능 전 영역 지식베이스
-  tagline: 기초부터 최신 AI 시스템까지, 수식과 직관으로 체계적으로 정리합니다.
+  text: 인공지능 지식베이스
+  tagline: 수식과 직관으로 체계적으로 정리합니다.
   actions:
     - theme: brand
       text: 시작하기

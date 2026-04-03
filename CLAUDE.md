@@ -75,9 +75,9 @@
 #### I. 인공지능 기초
 - [x] Lecture 01. 인공지능이란 무엇인가
 - [x] Lecture 02. 학습의 개념
-- [ ] Lecture 03. 학습 패러다임
-- [ ] Lecture 04. 일반화 문제
-- [ ] Lecture 05. 편향과 분산
+- [x] Lecture 03. 학습 패러다임
+- [x] Lecture 04. 일반화 문제
+- [x] Lecture 05. 편향과 분산
 
 #### II. 머신러닝과 딥러닝 핵심
 - [ ] Lecture 06. 경험적 위험 최소화

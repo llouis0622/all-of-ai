@@ -52,6 +52,13 @@
 - [x] Lecture 09. 표현 학습
 - [x] Lecture 10. 주요 신경망 구조
 
+### 2026-05-08 — 강의 콘텐츠 작성 계속
+- [x] Lecture 11. 생성이란 무엇인가
+- [x] Lecture 12. 생성 모델의 주요 접근법
+- [x] Lecture 13. LLM의 본질
+- [x] Lecture 14. 스케일링과 능력
+- [x] Lecture 15. 정렬과 미세조정
+
 ---
 
 ## 앞으로 할 것들
@@ -81,11 +88,11 @@
 - [x] Lecture 10. 주요 신경망 구조
 
 #### III. 생성 모델과 파운데이션 모델
-- [ ] Lecture 11. 생성이란 무엇인가
-- [ ] Lecture 12. 생성 모델의 주요 접근법
-- [ ] Lecture 13. LLM의 본질
-- [ ] Lecture 14. 스케일링과 능력
-- [ ] Lecture 15. 정렬과 미세조정
+- [x] Lecture 11. 생성이란 무엇인가
+- [x] Lecture 12. 생성 모델의 주요 접근법
+- [x] Lecture 13. LLM의 본질
+- [x] Lecture 14. 스케일링과 능력
+- [x] Lecture 15. 정렬과 미세조정
 
 #### IV. 문제 영역과 의사결정
 - [ ] Lecture 16. 비전/언어/오디오 문제의 구조

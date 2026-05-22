@@ -1,4 +1,4 @@
-# CLAUDE.md — All of AI 프로젝트 작업 문서
+# AGENTS.md — All of AI 프로젝트 작업 문서
 
 ## 프로젝트 개요
 
@@ -27,7 +27,7 @@
 - [x] `package.json` — `dev`, `build`, `preview` 스크립트 포함
 - [x] `.gitignore` — `node_modules/`, `dist/`, `.vitepress/cache/` 제외
 - [x] `README.md` — 로컬 실행 방법 작성
-- [x] `CLAUDE.md` — 작업 현황 문서 (이 파일)
+- [x] `AGENTS.md` — 작업 현황 문서 (이 파일)
 - [x] `docs/.vitepress/config.mts` — 사이드바, KaTeX, Mermaid, 로컬 서치, base URL 설정
 - [x] `docs/index.md` — 홈페이지 (hero 섹션 + 전체 목차 링크)
 - [x] 28개 Lecture .md 빈 템플릿 파일 생성 (ch01~ch12)
@@ -65,11 +65,6 @@
 - [x] Lecture 18. 강화학습의 주요 방법론
 - [x] Lecture 19. LLM 기반 시스템 설계
 - [x] Lecture 20. 에이전트형 인공지능
-
-### 2026-05-22 — 강의 콘텐츠 작성 계속
-- [x] Lecture 21. 선형대수와 표현
-- [x] Lecture 22. 확률적 모델링
-- [x] Lecture 23. 최적화와 학습
 
 ---
 
@@ -116,9 +111,9 @@
 - [x] Lecture 20. 에이전트형 인공지능
 
 #### VI. 인공지능 수학과 컴퓨터 과학
-- [x] Lecture 21. 선형대수와 표현
-- [x] Lecture 22. 확률적 모델링
-- [x] Lecture 23. 최적화와 학습
+- [ ] Lecture 21. 선형대수와 표현
+- [ ] Lecture 22. 확률적 모델링
+- [ ] Lecture 23. 최적화와 학습
 - [ ] Lecture 24. 자료구조
 - [ ] Lecture 25. 컴퓨터 구조
 - [ ] Lecture 26. 운영체제
@@ -153,7 +148,7 @@ npm run preview   # 빌드 결과 미리보기
 all-of-ai/
 ├── .github/workflows/deploy.yml
 ├── .gitignore
-├── CLAUDE.md
+├── AGENTS.md
 ├── README.md
 ├── package.json
 └── docs/
